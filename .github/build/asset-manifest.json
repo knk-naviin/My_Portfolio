@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.aa936ac8.css",
+    "main.js": "/my-portfolio/static/js/main.f6ad85d5.js",
+    "static/media/my-image2.jpg": "/my-portfolio/static/media/my-image2.bd2f15287d32c5407d94.jpg",
+    "static/media/me-new.png": "/my-portfolio/static/media/me-new.8e54f6ba15a81bafbf0e.png",
+    "static/media/resumenaveen.pdf": "/my-portfolio/static/media/resumenaveen.9aaf8af7db813a80ce25.pdf",
+    "static/media/Story.jpg": "/my-portfolio/static/media/Story.1ba619b8d1f93f8deb9f.jpg",
+    "static/media/siep.jpg": "/my-portfolio/static/media/siep.455e96efadf102572971.jpg",
+    "static/media/mq.jpg": "/my-portfolio/static/media/mq.c4601f5eb04bf8fba908.jpg",
+    "static/media/st.jpg": "/my-portfolio/static/media/st.6deb4147fd8b9ca7ac48.jpg",
+    "static/media/climpek.png": "/my-portfolio/static/media/climpek.9133648dbb815da99a3f.png",
+    "static/media/itest.jpg": "/my-portfolio/static/media/itest.1e380154ed80c250670f.jpg",
+    "static/media/java.jpg": "/my-portfolio/static/media/java.0037ed9f0e9276773645.jpg",
+    "static/media/shalong.jpg": "/my-portfolio/static/media/shalong.cfb6c6edb2534866c1fe.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.aa936ac8.css.map": "/my-portfolio/static/css/main.aa936ac8.css.map",
+    "main.f6ad85d5.js.map": "/my-portfolio/static/js/main.f6ad85d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa936ac8.css",
+    "static/js/main.f6ad85d5.js"
+  ]
+}
